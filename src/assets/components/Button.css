@@ -1,0 +1,12 @@
+.button {
+    color: #90a0d9;
+    border: 1px solid #90a0d9;
+    padding: 8px 16px;
+    font-family: 'popp_reg';
+    /* margin-block: 5vh; */
+}
+
+.button:hover {
+    color: #cdcdff;
+    border: 1px solid #cdcdff;
+}

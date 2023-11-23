@@ -1,0 +1,30 @@
+
+.header_wrap{
+    margin: 7vh auto;
+    max-width: 70%;
+}
+
+.header_wrap h2 {
+    font-family: 'popp_bold';
+    color: #bdbddd;
+    font-size: 2.5rem;
+    margin-block: 2vh;
+}
+
+.header_wrap h2 span {
+    color: #90a0d9;
+}
+
+.header_wrap h3 {
+    font-family: 'popp_bold';
+    color: #bdbddd;
+    font-size: 1.25rem;
+    margin-block: 2vh;
+}
+
+.header_wrap p {
+    color: #bdbddd;
+    font-family: 'popp_light';
+    line-height: 1.25;
+    margin-bottom: 4vh;
+}

@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* #23283e; #2a2f4c; #bdbddd; #cdcdff; #90a0d9; */
+
+@font-face {
+    font-family: 'popp_bold';
+    src: url(./assets/fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'popp_reg';
+    src: url(./assets/fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'popp_light';
+    src: url(./assets/fonts/Poppins-Light.ttf);
+}
+
+body {
+    margin: 2vh 8%;
+    background-color: #23283e;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
