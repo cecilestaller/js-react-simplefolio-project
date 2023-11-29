@@ -21,13 +21,74 @@
     src: url(./assets/fonts/Poppins-Light.ttf);
 }
 
-body {
-    margin: 2vh 8%;
-    background-color: #23283e;
+.app_wrap{
+    padding: 2vh 5%;
     text-align: center;
 }
 
 a {
     text-decoration: none;
     color: inherit;
+}
+
+.dark{
+    background-color: #23283e;
+}
+
+.bright {
+    background-color: white;
+}
+
+.bright nav h1 {
+    color: #444;
+}
+
+.bright nav ul li a {
+    color: #444;
+}
+.bright nav ul li a:hover {
+    color: #2978b5;
+}
+
+.bright nav ul div svg {
+    fill: #444;
+}
+.bright .header_wrap h2 {
+    color: #444;
+}
+.bright .header_wrap h2 span {
+    color: #2978b5;
+}
+.bright .header_wrap h3 {
+    color: #444;
+}
+.bright .header_wrap p {
+    color: #444;
+}
+.bright .button {
+    color: #2978b5;
+    border: 1px solid #2978b5;
+}
+.bright .button:hover {
+    background-color: #2978b5;
+    color: white;
+}
+.bright section h4 {
+    color: #444;
+}
+.bright section .projectItem_wrap .projectItem_div {
+    background-color: white;
+}
+.bright section .projectItem_wrap .projectItem_div h5 {
+    color: #444;
+}
+.bright section .projectItem_wrap .projectItem_div p {
+    color: #444;
+}
+.bright section .skills_wrap .skillItem_div {
+    background-color: #2978b5;
+    color: white;
+}
+.bright .footer_p {
+    color: #444;
 }
